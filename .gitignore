@@ -1,0 +1,146 @@
+# Build results
+Application/bin/
+Application/obj/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+Application/.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Auto-generated files
+**/Generated_Code/
+
+# Logs
+*.log
+**/*.log
+
+# Backup & temporary files
+*.bak
+*.tmp
+**/*.bak
+**/*.tmp
+
+# ASP.NET Scaffolding
+**/ScaffoldingReadMe.txt
+
+# Azure publish settings
+*.Publish.xml
+
+# Web Deploy publish profiles
+Application/Properties/PublishProfiles/
+**/Properties/PublishProfiles/
+
+# NPM packages (if using front-end tooling)
+node_modules/
+**/node_modules/
+
+# .NET Core tooling
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/project.lock.json
+**/project.fragment.lock.json
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Coverage files
+coverage/
+*.coverage
+*.coveragexml
+**/coverage/
+
+# Visual Studio Code
+.vscode/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Local environment settings
+Application/appsettings.Production.json
+Application/appsettings.json
+**/appsettings.Production.json
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+# Build cache
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+**/packages/
+
+# Entity Framework Migrations
+Application/Migrations/
+**/Migrations/
+
+# Others (if using static assets)
+Application/wwwroot/dist/
+Application/wwwroot/node_modules/
+**/wwwroot/dist/
+**/wwwroot/node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
+
+# Additional patterns for multi-project solutions
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/

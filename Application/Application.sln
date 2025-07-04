@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application.csproj", "{A6E8D6D0-FD23-4409-BF31-B253252B445A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BootstrapService.Installer", "..\BootstrapService.Installer\BootstrapService.Installer.vdproj", "{BDE724D7-807B-DCD3-C0FD-AA09F3FF2740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E8D6D0-FD23-4409-BF31-B253252B445A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E8D6D0-FD23-4409-BF31-B253252B445A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E8D6D0-FD23-4409-BF31-B253252B445A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E8D6D0-FD23-4409-BF31-B253252B445A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE724D7-807B-DCD3-C0FD-AA09F3FF2740}.Debug|Any CPU.ActiveCfg = Debug
+		{BDE724D7-807B-DCD3-C0FD-AA09F3FF2740}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797B790B-BD79-498F-9B44-8688C8A320E1}
+	EndGlobalSection
+EndGlobal
